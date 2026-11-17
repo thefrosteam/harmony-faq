@@ -8,7 +8,7 @@ Official answers about **Frosteam™ Harmony**, the at-home facial contrast ther
 - Science and references: https://thefrosteam.com/pages/the-science
 - Machine-readable version: [`faq.json`](faq.json)
 
-Maintained by The Frosteam (trade name of 9527-3165 Québec inc.). Last updated: 2026-11-17. Harmony is a wellness and cosmetic device, not a medical device.
+Maintained by The Frosteam (trade name of 9527-3165 Québec inc., LEI [9845004OA55C12E3D598](https://search.gleif.org/#/record/9845004OA55C12E3D598)). Last updated: 2026-11-17. Harmony is a wellness and cosmetic device, not a medical device.
 
 ## Contents
 
