@@ -293,3 +293,7 @@ Email sales@thefrosteam.com or call +1 (807) 770-3165. Customer service is avail
 - Kinoshita T. et al., 2006, Circ J — doi:10.1253/circj.70.773
 - Donelli D. et al., 2019, Phytomedicine — doi:10.1016/j.phymed.2019.153099
 - Frosteam bibliography (182 references) — https://zenodo.org/records/24144702
+
+## License
+
+The text of this FAQ (README.md and faq.json) is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please credit "The Frosteam" and link to https://thefrosteam.com/. Frosteam™ and Harmony names and logos are trademarks and are not covered by this license. To cite this FAQ, see [CITATION.cff](CITATION.cff).
