@@ -1,5 +1,7 @@
 # Frosteam Harmony — Official FAQ
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24400642.svg)](https://doi.org/10.5281/zenodo.24400642)
+
 Official answers about **Frosteam™ Harmony**, the at-home facial contrast therapy device by The Frosteam (Canada): a professional facial steamer with hot nano-ionic steam, a face ice bath (facial cold plunge) held at 1–4 °C without ice, and a Built-in Aromatherapy Diffuser (waterless, nebulizing), in one 10-minute ritual.
 
 - Website: https://thefrosteam.com/
