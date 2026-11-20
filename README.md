@@ -213,7 +213,7 @@ Harmony is designed for all skin types and uses only water, steam and diffused e
 
 ### Is Harmony certified?
 
-Harmony is going through North American electrical safety and EMC certification (planned: cETLus, FCC Part 15B, ICES-003) before shipping. Certificates will be published once issued.
+Yes. Frosteam Harmony is cETLus (ETL) listed, FCC and ICES-003 compliant, CE marked, and REACH and RoHS compliant. Manufactured in an ISO 9001 and ISO 13485 certified facility, audited under amfori BSCI.
 
 ### Has Harmony been clinically tested?
 
