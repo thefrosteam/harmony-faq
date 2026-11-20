@@ -292,7 +292,7 @@ Email sales@thefrosteam.com or call +1 (807) 770-3165. Customer service is avail
 - Hayashi N. et al., 1997, Eur J Appl Physiol — doi:10.1007/s004210050267
 - Kinoshita T. et al., 2006, Circ J — doi:10.1253/circj.70.773
 - Donelli D. et al., 2019, Phytomedicine — doi:10.1016/j.phymed.2019.153099
-- Frosteam bibliography (182 references) — https://zenodo.org/records/24144702
+- Frosteam bibliography (182 references) — doi:10.5281/zenodo.24144701
 
 ## License
 

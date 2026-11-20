@@ -32,7 +32,22 @@ keywords:
   - Frosteam Harmony
 references:
   - type: data
-    title: "Frosteam bibliography"
+    title: "Frosteam Cited Studies Bibliography: 182 Scientific References on Facial Cold Therapy, Facial Steam and Aromatherapy"
     authors:
-      - name: "The Frosteam"
-    url: "https://zenodo.org/records/24144702"
+      - family-names: "Deraiche"
+        given-names: "Ritchie"
+        orcid: "https://orcid.org/0009-0008-2761-667X"
+    doi: "10.5281/zenodo.24144701"
+    license: CC-BY-4.0
+    publisher:
+      name: "Zenodo"
+  - type: data
+    title: "Frosteam Intellectual Property Register: Trademarks, Industrial Designs and Patent Applications of 9527-3165 Québec inc. (as of 2026-11-11)"
+    authors:
+      - family-names: "Deraiche"
+        given-names: "Ritchie"
+        orcid: "https://orcid.org/0009-0008-2761-667X"
+    doi: "10.5281/zenodo.24146611"
+    license: CC0-1.0
+    publisher:
+      name: "Zenodo"
