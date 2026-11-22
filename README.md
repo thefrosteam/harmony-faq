@@ -159,7 +159,7 @@ No. Harmony has no app, Wi-Fi or Bluetooth. Everything is controlled from its to
 
 ### What voltage does Harmony use?
 
-Harmony runs on 100–240 V, 50/60 Hz, and is designed for Canada, the United States and Mexico. It plugs into a standard household outlet.
+Harmony runs on 120 V, 60 Hz, and is designed for Canada, the United States and Mexico. It plugs into a standard household outlet.
 
 ### What's in the box?
 
