@@ -23,7 +23,8 @@ identifiers:
 license: CC-BY-4.0
 repository-code: "https://github.com/thefrosteam/harmony-faq"
 url: "https://thefrosteam.com/pages/frosteam-faq"
-date-released: "2026-11-20"
+version: "v1.1.0"
+date-released: "2026-11-22"
 keywords:
   - facial steamer
   - facial cold plunge
@@ -31,6 +32,9 @@ keywords:
   - facial contrast therapy
   - aromatherapy diffuser
   - Frosteam Harmony
+  - facial sauna
+  - facial steam treatment
+  - hot and cold facial therapy
 references:
   - type: data
     title: "Frosteam Cited Studies Bibliography: 182 Scientific References on Facial Cold Therapy, Facial Steam and Aromatherapy"
