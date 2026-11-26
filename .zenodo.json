@@ -3,8 +3,14 @@
   "title": "Frosteam Harmony — Official FAQ",
   "description": "Official question-and-answer reference for Frosteam Harmony, an at-home facial contrast therapy device combining a professional facial steamer with hot nano-ionic steam, a facial cold plunge held at 1–4 °C and a Built-in Aromatherapy Diffuser. Published as schema.org FAQPage JSON-LD (faq.json) and Markdown (README.md).",
   "creators": [
-    { "name": "The Frosteam" },
-    { "name": "Deraiche, Ritchie", "orcid": "0009-0008-2761-667X", "affiliation": "The Frosteam" }
+    {
+      "name": "The Frosteam"
+    },
+    {
+      "name": "Deraiche, Ritchie",
+      "orcid": "0009-0008-2761-667X",
+      "affiliation": "The Frosteam"
+    }
   ],
   "license": "cc-by-4.0",
   "language": "eng",
@@ -20,8 +26,25 @@
     "hot and cold facial therapy"
   ],
   "related_identifiers": [
-    { "identifier": "https://thefrosteam.com/pages/frosteam-faq", "relation": "isVariantFormOf", "resource_type": "other" },
-    { "identifier": "10.5281/zenodo.24144701", "relation": "references", "resource_type": "dataset" },
-    { "identifier": "10.5281/zenodo.24146611", "relation": "references", "resource_type": "dataset" }
+    {
+      "identifier": "https://thefrosteam.com/pages/frosteam-faq",
+      "relation": "isVariantFormOf",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.24144701",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.24146611",
+      "relation": "references",
+      "resource_type": "dataset"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "frosteam"
+    }
   ]
 }
